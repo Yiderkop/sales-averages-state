@@ -1,5 +1,4 @@
 
-
-![Sales Chart](images/Sales.png)  
-![Average Sales Chart](images/statesales.png)  
-![State Chart](images/States.png)
+![Sales Chart](imageSales.png)  
+![Average Sales Chart](imagestatesales.png)  
+![State Chart](ImageStates.png)
